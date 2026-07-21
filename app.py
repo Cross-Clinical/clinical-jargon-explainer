@@ -53,7 +53,7 @@ def list_discipline(discipline: str) -> str:
 with gr.Blocks(title="Clinical Jargon Explainer") as demo:
     gr.Markdown(
         f"# Clinical Jargon Explainer\n\n**{DISCLAIMER}**\n\n"
-        f"[Cross Clinical OSS](https://github.com/Cross-Clinical/awesome) · "
+        f"[Cross Clinical OSS](https://github.com/Cross-Clinical/suite-index) · "
         f"[ProMedNet](https://crossclinical.com)"
     )
     with gr.Row():

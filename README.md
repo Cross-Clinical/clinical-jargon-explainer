@@ -20,4 +20,4 @@ Multi-discipline health terms → plain English (educational glossary + optional
 
 **Not medical advice.** See DISCLAIMER.md.
 
-[Cross Clinical OSS](https://github.com/Cross-Clinical/awesome) · [ProMedNet](https://crossclinical.com)
+[Cross Clinical OSS](https://github.com/Cross-Clinical/suite-index) · [ProMedNet](https://crossclinical.com)
